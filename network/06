@@ -1,0 +1,3 @@
+/etc/resolv.conf
+
+# Cat file above or as an alternative to figure domain/nameserver use 'scutil --dns'

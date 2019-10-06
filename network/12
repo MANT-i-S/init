@@ -1,0 +1,5 @@
+#!/bin/sh
+ipconfig getpacket en0
+
+# Replace en0 with en1 if you're on AirPort
+# Server_identifier (ip): 10.51.1.253

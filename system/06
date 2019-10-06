@@ -1,0 +1,4 @@
+#!/bin/bash
+service ssh restart
+
+# Or 'systemctl restart ssh'

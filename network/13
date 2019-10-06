@@ -1,0 +1,6 @@
+253.1.51.10.in-addr.arpa domain name pointer dhcp-dns.42.us.org.
+253.1.51.10.in-addr.arpa domain name pointer dhcp.42.us.org.
+
+# Use 'HOST' with ip from ex12
+# Also if use it with ip adress from ex02 you'll get
+# 20.5.113.10.in-addr.arpa domain name pointer e1z3r5p20.42.us.org.
