@@ -1,5 +1,5 @@
 #!/bin/sh
-gcc *.c
+make re
 git add .
 git commit -m +
 git push
