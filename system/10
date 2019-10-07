@@ -1,0 +1,3 @@
+fdisk -l
+
+# Or diskutil list

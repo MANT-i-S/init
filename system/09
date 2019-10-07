@@ -1,0 +1,4 @@
+#!/bin/bash
+who
+
+# Also can use 'w' to who's logged in and what he's doing.
